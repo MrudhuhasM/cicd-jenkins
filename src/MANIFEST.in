@@ -1,0 +1,7 @@
+recursive-include sales_prediction *
+include sales_prediction/data/*.csv
+include sales_prediction/model/*.pkl
+include tests/*
+
+recursive-exclude * __pycache__
+recursive-exclude * *.py[co]

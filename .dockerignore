@@ -1,0 +1,34 @@
+# Exclude virtual environment directory
+venvsales
+
+# Exclude other common directories and files
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.Python
+.env
+.env.*
+.cache
+pytest_cache
+.pytest_cache
+.tox
+.nox
+.coverage
+coverage.*
+nosetests.xml
+test-results.xml
+*.log
+*.sql
+*.sqlite3
+*.pdb
+*.egg
+*.eggs
+*.egg-info
+dist
+build
+*.tgz
+*.gz
+*.zip
+docs/_build
+docs/_book

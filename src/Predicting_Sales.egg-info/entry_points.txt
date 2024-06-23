@@ -1,0 +1,2 @@
+[console_scripts]
+sales-predictor-train = sales_prediction.train:main

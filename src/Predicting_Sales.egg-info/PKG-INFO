@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: Predicting-Sales
+Version: 0.1.0
+Summary: using Machine Learning to predict sales given marketing budget
+Requires-Dist: pandas
+Requires-Dist: scikit-learn
+Requires-Dist: joblib
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
